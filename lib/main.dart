@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prctic3/Tasbih_Page.dart';
+import 'package:prctic3/Home_page.dart';
 void main(){
   runApp(Islami_App());
 

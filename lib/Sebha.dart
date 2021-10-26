@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Hadithe_page extends StatelessWidget {
+class Sebha extends StatelessWidget {
 
 
   @override
